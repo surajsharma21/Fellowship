@@ -1,2 +1,2 @@
 This is my old sample feature i aM working todayOrTomorrow.
-This is my new1 sample feature i am working on some otherfile.
+This is my new1 sample feature i am working on some other file.
